@@ -1,7 +1,7 @@
 # Manipulando listas - list
 
 #Criando uma lista.
-nomes = ["Ana", "Pedro"]
+nomes = ["Ana", "Pedro"] #Cochetes se usa nas listas
 print (f"lista original: {nomes}")
 #Adicionando 2 novos nomes com FOR.
 for cont in range(2): #Pedindo para repitir 3 vezes.

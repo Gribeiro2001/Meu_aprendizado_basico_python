@@ -4,7 +4,7 @@ cores = ("vermelha", "azul", "amarelo", "verde", "azul")
 print(f"Meu carro é {cores[2]}")
 
 # Aqui consigo contar quantas cores
-qtd = len(cores)
+qtd = len(cores) #No tuplas e tuple se usa aspas.
 print(f"Tenho {qtd} de opções de cores")
 
 cor = input ("Digite uma cor: ")
