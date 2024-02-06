@@ -1,0 +1,3 @@
+Olá, mundo!
+Este é um exemplo de escrita em arquivo.
+Aqui estamos acrescentando mais algumas linhas.
